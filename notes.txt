@@ -1,2 +1,3 @@
 I made some changes in the first line.Sorry
 this is the second line,added fter first commit.
+ok i added this after pulling.
